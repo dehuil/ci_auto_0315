@@ -1,0 +1,9 @@
+[2020-03-15 02:03:43,906] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_query_ok】==========
+[2020-03-15 02:03:43,909] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:37 , > > > > >请求的method是：get
+[2020-03-15 02:03:43,909] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:38 , > > > > >请求的url是：http://127.0.0.1:8091/api/v1/user/queryById
+[2020-03-15 02:03:43,910] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-03-15 02:03:43,910] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-03-15 02:03:43,910] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:41 , > > > > >请求的params是：{"userId": "666"}
+[2020-03-15 02:03:43,911] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-03-15 02:03:43,911] [DEBUG] [C:\Users\lee\PycharmProjects\ci_auto_test\test_case\test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..code=0;
+1111
